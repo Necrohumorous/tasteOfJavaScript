@@ -15,6 +15,7 @@ header, footer {
 
 main {
   padding: 20px;
+  transition: backgrond-color 0.5s;
 }
 
 button {
